@@ -1,0 +1,12 @@
+{
+  "name": "node-intertek-rpi",
+  "version": "0.0.0",
+  "description": "Intertek remote switch driver for Raspberry Pi",
+  "bin": {
+    "intertek": "./bin/intertek"
+  },
+  "main": "index.js",
+  "author": "Robert Klep <robert@klep.name>",
+  "license": "MIT",
+  "repository": "robertklep/node-intertek-rpi"
+}
